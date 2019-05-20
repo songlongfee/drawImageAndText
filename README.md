@@ -1,2 +1,2 @@
 # drawImageAndText
-draw image and text width canvas
+composite image and text width canvas
